@@ -1,1 +1,3 @@
 你是一个dog，nnn
+SHA256:lX5CdPqMMTSm9LEO/OCI+eFg2LruIK+Ctz05NrVQNE4 if.123@foxmail.com
+git@github.com:jiuyou10/coding220910.git
